@@ -858,6 +858,7 @@ h6 {
 @media (max-width: 480px) {
   #schedule .nav-tabs a {
     padding: 8px 30px;
+    margin: 5px;
   }
 }
 
@@ -1079,6 +1080,7 @@ h6 {
 
 #supporters img {
   transition: all 0.4s ease-in-out;
+  height: 100%;
 }
 
 /*--------------------------------------------------------------
